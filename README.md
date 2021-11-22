@@ -1,4 +1,4 @@
-# sql-server-reference-code
+# sql-in-10-minutes-code
 
 
 <div align="center">
